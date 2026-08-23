@@ -1,0 +1,29 @@
+# ==========================================
+# F-Droid Server + GitHub Pages Template
+# ==========================================
+
+# 1. SENSIBLE DATEN (NIEMALS PUSHEN!)
+# Enthält Klartext-Passwörter für Keystores
+config.yml
+config.py
+
+# 2. PRIVATE SCHLÜSSEL
+# Deine geheimen Schlüssel zum Signieren des Indexes
+*.jks
+*.p12
+*.pkcs12
+*.pem
+*.sig
+canonical-certs.pem
+
+# 3. TEMPORÄRE DATEIEN & LOGS
+/tmp/
+/stats/
+out.txt
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# HINWEIS: Ordner wie /repo/ und /archive/ werden NICHT ignoriert.
+# Die dort liegenden APKs und index.v1.jar müssen für GH-Pages hochgeladen werden.
