@@ -1,9 +1,10 @@
-AuthorName: ''
+AuthorName: 'DanlTech'
 Categories:
 - dt-f-droid
+
 CurrentVersionCode: 2147483647
-IssueTracker: ''
+IssueTracker: 'https://github.com/danltech/danlbench-v1-ae/issues'
 Name: DanlBench V1 (AE)
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://github.com/danltech/danlbench-v1-ae'
+Summary: 'Single Core CPU Benchmark App for Android 2.2+'
+WebSite: 'https://danltech.github.io/danlbench-v1'
