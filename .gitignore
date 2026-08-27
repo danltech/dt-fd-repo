@@ -27,3 +27,7 @@ Thumbs.db
 
 # HINWEIS: Ordner wie /repo/ und /archive/ werden NICHT ignoriert.
 # Die dort liegenden APKs und index.v1.jar müssen für GH-Pages hochgeladen werden.
+
+*keystore
+keystore*
+*.ovpn
