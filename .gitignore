@@ -31,3 +31,6 @@ Thumbs.db
 *keystore
 keystore*
 *.ovpn
+*.old
+*.bak
+test/
