@@ -34,3 +34,4 @@ keystore*
 *.old
 *.bak
 test/
+sign.sh
